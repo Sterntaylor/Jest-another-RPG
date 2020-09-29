@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "turn-based rpg that uses text based combat",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sterntaylor/Jest-another-RPG.git"
+  },
+  "author": "Taylor Stern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sterntaylor/Jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Sterntaylor/Jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
